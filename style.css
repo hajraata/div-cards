@@ -62,3 +62,9 @@
     /* height: 85vh; */
   }
 }
+
+@media screen and (max-width: 1007px) {
+  .card {
+    max-width: 300px;
+  }
+}
